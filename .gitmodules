@@ -1,6 +1,3 @@
 [submodule "000-dynamical-systems-with-applications-using-python"]
 	path = 000-dynamical-systems-with-applications-using-python
 	url = https://github.com/prototype99/dynamical-systems-with-applications-using-python.git
-[submodule "000-tekbac"]
-	path = 000-tekbac
-	url = https://github.com/proflynch/Tekbac.git
