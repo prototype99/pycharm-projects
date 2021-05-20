@@ -1,0 +1,1 @@
+/home/seirra/PycharmProjects/000-dynamical-systems-with-applications-using-python/Anaconda-files/housing.txt
